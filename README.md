@@ -5,7 +5,7 @@ This project develops a predictive purchase order system for Domino’s by lever
 
 Problem Statement : Domino’s needs an efficient way to forecast pizza sales and order ingredients in advance. Incorrect purchase planning leads to -
 - Overstocking → Waste & higher costs
-- Understocking → Stockouts & lost revenue
+- Understocking → Stockouts & lost revenue. 
 The solution uses historical sales data to predict demand and automatically generate a weekly purchase order for required ingredients.
 
 Business Use Cases :
